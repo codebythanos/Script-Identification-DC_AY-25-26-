@@ -27,3 +27,35 @@ To get started, clone the repository and install the necessary dependencies for 
 ```bash
 git clone https://github.com/codebythanos/Script-Identification-DC_AY-25-26.git
 cd Script-Identification-DC_AY-25-26
+
+## Project Structure
+
+The repository is divided into three main folders:
+
+- `ResNet/`
+- `ViT/`
+- `ParseqViT/`
+
+Each folder contains multiple implementations of the model.
+
+### Example structure inside a folder
+
+ResNet/  
+│  
+├── Model1.py  
+├── Model2.py  
+├── Model3.py  
+├── requirement_model1.txt  
+├── requirement_model2.txt  
+├── requirement_model3.txt  
+├── README.md  
+
+---
+
+## How to Use
+
+Each model folder contains its own `README.md` file.
+
+Follow these steps:
+
+1. Go to the desired model folder:
