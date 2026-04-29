@@ -23,10 +23,12 @@ ParseqViT/
 ├── Model1_parseq.py
 ├── Model2_parseq.py
 ├── Model3_parseq.py
+├── Model4_parseq.py
 ├── vit_patch16_weights.pth
 ├── requirement_Model1_parseq.txt
 ├── requirement_Model2_parseq.txt
 ├── requirement_Model3_parseq.txt
+├── requirement_Model4_parseq.txt
 ├── README.md
 ```
 
@@ -42,6 +44,10 @@ ParseqViT/
 
 - **Model3_parseq.py**  
   Advanced implementation including patch-size experiments, attention visualization, and performance comparison.
+
+ - **Model4_parseq.py**  
+  Modified implementation including patch-size experiments for image size(128x32), attention visualization, and performance comparison.
+
 
 ---
 ## Installation
@@ -76,6 +82,7 @@ Similarly:
 ```bash
 python Model1_parseq.py
 python Model2_parseq.py
+python Model4_parseq.py
 ```
 Dataset
 
