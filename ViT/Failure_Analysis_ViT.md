@@ -75,4 +75,13 @@ Performance is also slightly uneven across classes, with very high accuracy for 
 ### Main Failure Reasons
 - Confusion between visually similar scripts  
 - Overfitting due to full fine-tuning  
-- Limited dataset size for transformer models  
+- Limited dataset size for transformer models
+
+<img width="122" height="80" alt="WhatsApp Image 2026-04-29 at 9 04 28 PM" src="https://github.com/user-attachments/assets/d25bfe1b-74e8-49fc-a377-aab485f59771" />
+Assamese misclassified as hindi
+
+
+
+<img width="231" height="205" alt="image" src="https://github.com/user-attachments/assets/7860f5d8-494f-4f6b-a476-1a5db7d4f0b6" />
+Kannada misclassified as Telugu
+  
