@@ -73,21 +73,25 @@ python Model3_parseq.py
 ```
 Similarly:
 
+```bash
 python Model1_parseq.py
 python Model2_parseq.py
+```
 Dataset
 
 Update dataset paths inside the script before running.
 
 Expected structure:
-
+```bash
 dataset/
 ├── train_1800/
 ├── test_478/
+```
 
 Each folder contains subdirectories corresponding to script classes.
 
 Features
+```bash
 Vision Transformer models using timm
 Patch-size experimentation (patch8, patch16, patch32)
 GPU support with mixed precision
@@ -103,6 +107,7 @@ Seaborn
 Scikit-learn
 Pillow
 OpenCV
+```
 
 Refer to the specific requirement file for exact dependencies.
 
