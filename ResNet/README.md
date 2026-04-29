@@ -16,7 +16,7 @@ Each implementation explores variations such as:
 ---
 
 ## Directory Structure
-
+```bash
 ResNet/
 │
 ├── Model1.py
@@ -26,7 +26,7 @@ ResNet/
 ├── requirement_model2.txt
 ├── requirement_model3.txt
 ├── README.md
-
+```
 ---
 
 ## Model Variants
