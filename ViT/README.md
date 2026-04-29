@@ -76,13 +76,15 @@ python vit_Model3.py
 Dataset
 
 Update dataset paths inside the script before running.
+This is the link for data set :https://drive.google.com/file/d/1S7KUYfB-lQvbu6GtvZxxDPOD5ZZ080M0/view
 
+Change the path for train and test dir in the .py scripts wherever required
 Expected structure:
 ```bash
 dataset/
 ├── train_1800/
 ├── test_478/
-```
+````
 
 Each folder contains subdirectories corresponding to script classes.
 
