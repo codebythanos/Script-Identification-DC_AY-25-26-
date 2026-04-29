@@ -23,6 +23,7 @@ ParseqViT/
 ├── Model1_parseq.py
 ├── Model2_parseq.py
 ├── Model3_parseq.py
+├── vit_patch16_weights.pth
 ├── requirement_Model1_parseq.txt
 ├── requirement_Model2_parseq.txt
 ├── requirement_Model3_parseq.txt
@@ -43,6 +44,8 @@ ParseqViT/
   Advanced implementation including patch-size experiments, attention visualization, and performance comparison.
 
 ---
+## Model Weights
+vit_patch16_weights.pth is the model weights for the patch 16 of Model3_parseq.py 
 
 ## Installation
 
