@@ -23,6 +23,7 @@ ViT/
 ├── vit_Model1.py
 ├── vit_Model2.py
 ├── vit_Model3.py
+├── best_vit_model.keras
 ├── requirement_vitmodel1.txt
 ├── requirement_vitmodel2.txt
 ├── requirement_vitmodel3.txt
@@ -42,6 +43,8 @@ ViT/
   Advanced implementation with optimization techniques, tuning, and improved performance.
 
 ---
+## Model Weights
+best_vit_model.keras is the model weights for our vit_Model3.py 
 
 ## Installation
 
