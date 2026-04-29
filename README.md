@@ -124,23 +124,6 @@ The models are evaluated using:
 
 ---
 
-## Requirements
-
-Common dependencies across models:
-
-- Python 3.8+
-- TensorFlow
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- keras-hub (for ViT models)
-
-Note: Exact dependencies may vary. Refer to the requirement files inside each model folder.
-
----
-
 ## Acknowledgements
 
 This project is based on established deep learning architectures:
