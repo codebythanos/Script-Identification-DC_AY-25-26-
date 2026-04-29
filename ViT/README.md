@@ -43,6 +43,34 @@ ViT/
   Advanced implementation with optimization techniques, tuning, and improved performance.
 
 ---
+### To run test.py
+## Requirements
+
+```bash
+pip install tensorflow keras-hub scikit-learn seaborn matplotlib pillow
+```
+
+## Download Weights
+
+```bash
+wget https://github.com/codebythanos/Script-Identification-DC_AY-25-26/releases/download/v1.0/best_vit_model.keras
+```
+
+## Run
+
+1. Open `test.py` and set `TEST_DIR` to your test dataset path
+2. Run:
+
+```bash
+python test.py
+```
+
+## Output
+
+- Test accuracy & loss printed to terminal
+- Per-class classification report (precision, recall, F1)
+- `final_confusion_matrix.png` saved in current directory
+
 ## Installation
 
 Navigate to this directory:
