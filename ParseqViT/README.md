@@ -68,6 +68,7 @@ Similarly:
 ```bash
 Model1 → requirement_Model1_parseq.txt
 Model2 → requirement_Model2_parseq.txt
+Model4 → requirement_Model4_parseq.txt
 ```
 Usage
 Run the desired model:
